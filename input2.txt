@@ -1,0 +1,13 @@
+tree_insert,P3,Aniseed Syrup,Supplier1,Category2,12 - 550 ml bottles,10.00
+tree_insert,P1,Chais,Supplier1,Category1,10 boxes x 20 bags,18.00
+tree_insert,P4,Chef Anton Cajun Seasoning,Supplier2,Category2,48 - 6 oz jars,22.00
+tree_insert,P2,Chang,Supplier1,Category1,24 - 12 oz bottles,19.00
+tree_preorder
+tree_inorder
+tree_minimum
+tree_maximum
+tree_search,P3,Aniseed Syrup,Supplier1,Category2
+tree_search,P4,Chef Anton Cajun Seasoning,Supplier8,Category9
+tree_search,P1,Chais,Supplier1,Category1
+tree_search,P5,Chang,Supplier1,Category1
+quit

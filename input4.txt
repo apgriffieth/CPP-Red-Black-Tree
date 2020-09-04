@@ -1,0 +1,26 @@
+tree_insert,P2,Chang,Supplier1,Category1,24 - 12 oz bottles,19.00
+tree_insert,P4,Chef Anton Cajun Seasoning,Supplier2,Category2,48 - 6 oz jars,22.00
+tree_insert,P5,Chef Anton Gumbo Mix,Supplier2,Category2,36 boxes,21.35
+tree_insert,P7,Uncle Bob's Organic Dried Pears,Supplier3,Category7,12 - 1 lb pkgs.,30.00
+tree_insert,P1,Chais,Supplier1,Category1,10 boxes x 20 bags,18.00
+tree_insert,P3,Aniseed Syrup,Supplier1,Category2,12 - 550 ml bottles,10.00
+tree_insert,P6,Grandma Boysenberry Spread,Supplier3,Category2,12 - 8 oz jars,25.00
+tree_insert,P8,Northwoods Cranberry Sauce,Supplier3,Category2,12 - 12 oz jars,40.00
+tree_inorder
+tree_predecessor,P1,Chais,Supplier1,Category1
+tree_predecessor,P5,Chef Anton Gumbo Mix,Supplier2,Category2
+tree_successor,P4,Chef Anton Cajun Seasoning,Supplier2,Category2
+tree_successor,P8,Northwoods Cranberry Sauce,Supplier3,Category2
+tree_insert,P9,Mishi Kobe Niku,Supplier4,Category6,18 - 500 g pkgs.,97.00
+tree_minimum
+tree_maximum
+tree_inorder
+tree_insert,P14,Tofu,Supplier6,Category7,40 - 100 g pkgs.,23.25
+tree_insert,P28,Rossle Sauerkraut,Supplier12,Category7,25 - 825 g cans,45.60
+tree_insert,P77,Original Frankfurter grune Sobe,Supplier12,Category2,12 boxes,13.00
+tree_insert,P62,Tarte au sucre,Supplier29,Category3,48 pies,49.30
+tree_search,P4,Chef Anton Cajun Seasoning,Supplier2,Category2
+tree_maximum
+tree_preorder
+tree_postorder
+quit

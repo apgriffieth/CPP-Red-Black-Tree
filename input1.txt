@@ -1,0 +1,12 @@
+tree_insert,P2,Chang,Supplier1,Category1,24 - 12 oz bottles,19.00
+tree_insert,P4,Chef Anton Cajun Seasoning,Supplier2,Category2,48 - 6 oz jars,22.00
+tree_insert,P5,Chef Anton Gumbo Mix,Supplier2,Category2,36 boxes,21.35
+tree_insert,P7,Uncle Bob's Organic Dried Pears,Supplier3,Category7,12 - 1 lb pkgs.,30.00
+tree_insert,P1,Chais,Supplier1,Category1,10 boxes x 20 bags,18.00
+tree_insert,P3,Aniseed Syrup,Supplier1,Category2,12 - 550 ml bottles,10.00
+tree_insert,P6,Grandma Boysenberry Spread,Supplier3,Category2,12 - 8 oz jars,25.00
+tree_insert,P8,Northwoods Cranberry Sauce,Supplier3,Category2,12 - 12 oz jars,40.00
+tree_inorder
+tree_preorder
+tree_postorder
+quit
